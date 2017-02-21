@@ -11,6 +11,6 @@
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
     "siteurl": "{"url": "http://www.classroom.ischoolindia.com", "username":""},
-    "skipssoconfirmation": "false",
-    "forcedefaultlanguage": "false"
+    "skipssoconfirmation": "True",
+    "forcedefaultlanguage": "True"
 }

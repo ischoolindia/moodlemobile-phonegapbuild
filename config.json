@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.ischoolindia.classroommobile",
+    "app_id" : "com.ischoolindia.mobileapp",
     "appname": "ClassRoom",
     "versioncode" : "1",
     "versionname" : "1.0",
@@ -9,8 +9,8 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
-    "siteurl": {"url": "http://www.classroom.ischoolindia.com", "username": ""},
+    "customurlscheme": "ischoolmobileapp",
+    "siteurl": {"url": "http://classroom.ischoolindia.com", "username": ""},
     "skipssoconfirmation": "False",
     "forcedefaultlanguage": "False"
 }
